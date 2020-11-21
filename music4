@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaJam Coffee House Menu</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="javajam4.css">
+</head>
+<body>
+<div id="wrapper">
+<header>
+<h1>JavaJam Coffee House</h1>
+</header>
+<nav>
+<a href="index.html">Home</a> &nbsp;
+<a href="menu.html">Menu</a> &nbsp;
+<a href="music.html">Music</a> &nbsp;
+<a href="jobs.html">Jobs</a>
+</nav>
+<main>
+<header>
+</header>
+<h2>Music at JavaJam</h2>
+<p>The first Friday night each month at JavaJam
+is a special night. Join us from 8pm to 11pm
+for some music you won't want to miss!</p>
+
+<h5>January</h6>
+<div class="details">
+  <a href="../javajam4/javajam_Images/melanie.jpg">
+  <img src="../javajam4/javajam_Images/melaniethumb.jpg"
+  alt="Melanie Thumb" style= float:"left">
+  </a>
+  <p>Melanie Morris entertains with her melodic folk style.</p>
+ </div>
+
+<h6>February</h6>
+<div class="details">
+  <a href="../javajam4/javajam_Images/greg.jpg">
+  <img src="../javajam4/javajam_Images/gregthumb.jpg"
+  alt="Greg Thumb" style= float:"left">
+  </a>
+  <p>Tahoe Greg is back from his tour. New songs. New stories.</p>
+</div>
+
+
+</main>
+<footer>
+Copyright &copy; 2018 JavaJam Coffee House<br>
+<a href="mailto:yourfirstname@yourlastname.com">yourfirstname@yourlastname.com</a>
+</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+	background-image:url(../javajam4/javajam_Images/background.gif);
+	color:#FCEBB6;
+	text-color:#221811;
+	font-family:Verdana;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-bottom: 2em;
+	display: block;
+
+}
+h1 {
+	background-image: url(../javajam4/javajam_Images/javajamlogo.jpg);
+	background-repeat: no-repeat;
+	background-color:#D2B48C;
+	padding-top: 45px;
+	padding-left: 220px;
+	font-size: 3em;
+
+}
+h5 {
+	background-color:#D2B48C;
+	line-height: 200%;
+	font-size: 2em;
+	padding-left: .5em;
+	padding-bottom: .25em;
+}
+h6 {
+	background-color:#D2B48C;
+	line-height: 200%;
+	font-size: 2em;
+	padding-left: .5em;
+	padding-bottom: .25em;
+}
+nav {
+	text-align:center;
+	font-weight:bold;
+	font-size: 1.5em;
+	padding-top: 10px;
+	text-decoration: none;
+
+}
+
+footer {
+	background-color:#D2B48C;
+	font-size:small;
+	text-align:center;
+	font-style:italic;
+	padding-bottom: 10px;
+	border-top-style: solid;
+	padding-top: 2px;
+	border-color: #221811;
+
+
+}
+#wrapper {
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FEF6C2;
+	min-width: 900px;
+	max-width: 1280px;
+	border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+
+}
+
+.details {
+  text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+
+}
+
+
+
+</html>
+</head>
